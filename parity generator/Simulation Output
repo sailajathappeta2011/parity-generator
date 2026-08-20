@@ -1,0 +1,5 @@
+Time=0  | Data=0000 | Even Parity=0 | Odd Parity=1
+Time=10 | Data=0001 | Even Parity=1 | Odd Parity=0
+Time=20 | Data=0011 | Even Parity=0 | Odd Parity=1
+Time=30 | Data=0101 | Even Parity=0 | Odd Parity=1
+Time=40 | Data=1111 | Even Parity=0 | Odd Parity=1
